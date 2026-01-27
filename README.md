@@ -1,6 +1,12 @@
-<h1 align="center">User2Root Mobile <img width="278" height="340" alt="android-malware-removebg-preview" src="https://github.com/user-attachments/assets/cad12624-ae13-48d6-a057-eeecd74e51de" /> </h1>
+<h1 align="center">User2Root Mobile</h1>
 
- <img width="278" height="340" alt="android-malware-removebg-preview" src="https://github.com/user-attachments/assets/cad12624-ae13-48d6-a057-eeecd74e51de" />
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/cad12624-ae13-48d6-a057-eeecd74e51de"
+    alt="User2Root Mobile"
+    width="220"
+  />
+</p>
 
 
 Este repositório contém **métodos de root organizados por fabricante e modelo**, com foco em **reprodutibilidade**, **segurança** e **aderência a boas práticas** (Magisk, bootloader unlock, imagens oficiais).
