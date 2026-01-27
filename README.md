@@ -16,7 +16,7 @@ Este repositório contém **métodos de root organizados por fabricante e modelo
 
 
 
-<h1 align="center"> <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7140fe30-29c3-49d7-87a0-856baa052579" /> </h1>
+<h2 align="center"> <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7140fe30-29c3-49d7-87a0-856baa052579" /> </h2>
 
 
 
