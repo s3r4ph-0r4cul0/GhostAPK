@@ -1,28 +1,35 @@
-<h1 align="center">
-  User2Root Mobile
-  <img
-    src="https://github.com/user-attachments/assets/cad12624-ae13-48d6-a057-eeecd74e51de"
-    alt="android"
-    width="32"
-    style="vertical-align: middle;"
-  />
-</h1>
+<div align="center">
 
+  <h1>
+    User2Root Mobile
+    <img
+      src="https://github.com/user-attachments/assets/cad12624-ae13-48d6-a057-eeecd74e51de"
+      alt="android"
+      width="32"
+      style="vertical-align: middle;"
+    />
+  </h1>
 
+  <p>
+    Este repositório contém <strong>métodos de root organizados por fabricante e modelo</strong>,
+    com foco em <strong>reprodutibilidade</strong>, <strong>segurança</strong> e
+    <strong>aderência a boas práticas</strong>
+    (Magisk, bootloader unlock, imagens oficiais).
+  </p>
 
-Este repositório contém **métodos de root organizados por fabricante e modelo**, com foco em **reprodutibilidade**, **segurança** e **aderência a boas práticas** (Magisk, bootloader unlock, imagens oficiais).
+  <blockquote>
+    ⚠️ <strong>Aviso importante</strong>: Root envolve riscos reais (brick, perda de garantia,
+    quebra de Play Integrity/SafetyNet). Utilize <strong>apenas em dispositivos de teste</strong>
+    ou sob sua responsabilidade.
+  </blockquote>
 
-> ⚠️ **Aviso importante**: Root envolve riscos reais (brick, perda de garantia, quebra de Play Integrity/SafetyNet). Utilize **apenas em dispositivos de teste** ou sob sua responsabilidade.
-
-
-
-<h1 align="center">
   <img
     src="https://github.com/user-attachments/assets/7140fe30-29c3-49d7-87a0-856baa052579"
     alt="User2Root Mobile"
     width="600"
   />
-</h1>
+
+</div>
 
 
 ## 🎯 Objetivo
