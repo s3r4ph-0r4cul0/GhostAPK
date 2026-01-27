@@ -25,10 +25,6 @@ Este repositório contém **métodos de root organizados por fabricante e modelo
 </h1>
 
 
-
-
----
-
 ## 🎯 Objetivo
 
 Centralizar **procedimentos confiáveis de root** para diferentes dispositivos Android, documentando:
