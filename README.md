@@ -16,7 +16,14 @@ Este repositório contém **métodos de root organizados por fabricante e modelo
 
 
 
-<h1 align="center"> <img width="1536" height="900" alt="image" src="https://github.com/user-attachments/assets/7140fe30-29c3-49d7-87a0-856baa052579" /> </h1>
+<h1 align="center">
+  <img
+    src="https://github.com/user-attachments/assets/7140fe30-29c3-49d7-87a0-856baa052579"
+    alt="User2Root Mobile"
+    width="600"
+  />
+</h1>
+
 
 
 
