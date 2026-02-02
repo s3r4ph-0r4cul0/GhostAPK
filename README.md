@@ -2,7 +2,7 @@
 
   <!-- Título -->
   <h1>
-    Mobile
+    GhostAPK
     <img
       src="https://github.com/user-attachments/assets/cad12624-ae13-48d6-a057-eeecd74e51de"
       alt="Android"
@@ -78,5 +78,6 @@ Este repositório segue práticas consolidadas de:
 * PTES
 * Mobile Red Team
 * MITRE ATT&CK (Mobile)
+
 
 
