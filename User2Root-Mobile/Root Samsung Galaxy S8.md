@@ -89,7 +89,7 @@ Copie esse arquivo de volta para o PC.
 3. Pressione e segure:
 
 ```
-Volume +  +  Volume -
+(Volume +)  +  (Volume -)
 ```
 
 4. Na tela de aviso, pressione **Volume +** para confirmar

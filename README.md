@@ -1,69 +1,82 @@
 <div align="center">
 
+  <!-- Título -->
   <h1>
-    User2Root Mobile
+    Mobile
     <img
       src="https://github.com/user-attachments/assets/cad12624-ae13-48d6-a057-eeecd74e51de"
-      alt="android"
+      alt="Android"
       width="32"
       style="vertical-align: middle;"
     />
   </h1>
 
+  <!-- Descrição -->
   <p>
-    Este repositório contém <strong>métodos de root organizados por fabricante e modelo</strong>,
-    com foco em <strong>reprodutibilidade</strong>, <strong>segurança</strong> e
-    <strong>aderência a boas práticas</strong>
-    (Magisk, bootloader unlock, imagens oficiais).
+    Este repositório contém <strong>métodos de root utilizados em pentests mobile</strong>,
+    aplicados em dispositivos reais durante avaliações de segurança.
+    <br />
+    Os métodos estão organizados no diretório <code>User2Root</code>,
+    separados por fabricante e modelo, visando <strong>reprodutibilidade</strong>
+    e <strong>padronização</strong>.
   </p>
 
-  <blockquote>
-    ⚠️ <strong>Aviso importante</strong>: Root envolve riscos reais (brick, perda de garantia,
-    quebra de Play Integrity/SafetyNet). Utilize <strong>apenas em dispositivos de teste</strong>
-    ou sob sua responsabilidade.
-  </blockquote>
+  <p>
+    O diretório <code>Hooks</code> reúne os <strong>scripts de instrumentação</strong>
+    utilizados durante testes de aplicações mobile.
+    <br />
+    Os scripts são organizados por cliente e seguem o padrão
+    <code>nome-script-{ano}</code>, facilitando rastreabilidade e contexto histórico.
+  </p>
 
+  <!-- Imagem principal -->
   <img
-    src="https://github.com/user-attachments/assets/7140fe30-29c3-49d7-87a0-856baa052579"
+    src="https://github.com/user-attachments/assets/7058dd87-b1a2-4c8a-a543-f7a6c60c443f"
     alt="User2Root Mobile"
-    width="600"
+    width="650"
   />
+
+  <br /><br />
+
+  <!-- Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/Platform-Android-green" />
+    <img src="https://img.shields.io/badge/Focus-Mobile%20Security-blue" />
+    <img src="https://img.shields.io/badge/Type-Pentest%20%26%20Red%20Team-red" />
+    <img src="https://img.shields.io/badge/Status-Active-success" />
+  </p>
+
+  <br />
 
 </div>
 
 
-## 🎯 Objetivo
-
-Centralizar **procedimentos confiáveis de root** para diferentes dispositivos Android, documentando:
-
-* Pré‑requisitos (bootloader, opções do desenvolvedor)
-* Método correto por fabricante
-* Armadilhas comuns e validações
-* Fluxo moderno com **Magisk (systemless)**
-
----
-
-## 📋 Pré‑requisitos Gerais
-
-* Opções do Desenvolvedor habilitadas
-* **Desbloqueio de OEM** ativado
-* **Depuração USB** ativa
-* Bootloader desbloqueado
-* ROM **exata** do dispositivo (build id compatível)
 
 ---
 
 ## 🛠️ Ferramentas Utilizadas
 
-* **Magisk**
-* **ADB / Fastboot**
-* **Odin** (Samsung)
+* MobSF
+* Ghidra
+* Frida
+* Objection
+* Magisk
+* ADB / Fastboot
+* Burp Suite
+* APKTool
+* JADX
+* Odin4
 
 ---
 
-## ✅ Validações Pós‑Root
+## 📚 Metodologia & Referências
 
-* Boot sem bootloop
-* Magisk ativo
-* `su` funcional
-* Play Integrity / SafetyNet (quando aplicável)
+Este repositório segue práticas consolidadas de:
+
+* OWASP MASVS
+* OWASP MSTG
+* PTES
+* Mobile Red Team
+* MITRE ATT&CK (Mobile)
+
+
